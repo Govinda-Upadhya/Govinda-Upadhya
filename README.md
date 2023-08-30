@@ -2,7 +2,7 @@
 - 👀 I’m interested in trading and hi-tech.
 - 🌱 I’m currently learning web-app development.
 - Studying in Kurushetra University in the field of computer science and engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web3 based startups.
 - 📫 How to reach me ...
 
 <!---
